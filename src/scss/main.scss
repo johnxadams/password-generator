@@ -1,3 +1,8 @@
+@import "./abstracts/_abstracts-dir";
+@import "./base/_base-dir";
+@import "./components/_components-dir";
+@import "./vendor/_vendor-dir";
+
 
 body {
     background-color: burlywood;

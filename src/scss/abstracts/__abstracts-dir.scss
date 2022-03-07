@@ -1,3 +1,9 @@
-@import "./fonts";
-@import "./mixins";
+
+// the order is super important
 @import "./variables";
+@import "./maps";
+@import "./mixins";
+@import "./functions";
+@import "./animation";
+@import "./loop";
+@import "./fonts";

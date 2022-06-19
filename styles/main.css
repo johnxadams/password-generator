@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 16px;
+}
+
+body {
+  height: 100vh;
+  background-color: burlywood;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.big-container {
+  width: 60%;
+  height: 65vh;
+  background-color: #FC9068;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 1.5px 1px 5px black;
+}
+.big-container .header-box {
+  width: 60%;
+  height: 20%;
+  background-color: #24F5F0;
+  margin: 2rem;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+.big-container .password-box {
+  width: 70%;
+  height: 20%;
+  background-color: #686AFC;
+  margin: 2rem;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+}
+.big-container .horizontal-line {
+  width: 80%;
+  border-bottom: 5px solid black;
+}
+.big-container .footer-box {
+  width: 80%;
+  height: 40%;
+  background-color: #686AFC;
+  margin: 2rem;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.big-container .footer-box button {
+  background-color: gray;
+  width: 20%;
+  height: 20%;
+}
+
+/*# sourceMappingURL=main.css.map */

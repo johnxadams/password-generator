@@ -13,11 +13,12 @@ In this application you can generate a random password. Based on all possible le
 ---
 </div>
 
+#### Description
 - The magic happens in Javascript. Inside the 
 function randomPassword() I declare a variable, which contains as string all possible characters on your keyboard. Using a loop, I push the randomly chosen characters to an empty array using the mathematical randomSyntax.  The total string index of the password is always 8.
 ---
 
-##### Developed With
+#### Developed With
 
 - [x] _HTML5_
 - [ ] _CSS3_
@@ -30,14 +31,14 @@ function randomPassword() I declare a variable, which contains as string all pos
 
 ---
 
-### Contact
+#### Contact
 
 Mail: <johnxadams93@gmail.com><br>
 GitHub: [johnxadams](https://github.com/johnxadams)<br>
 
 ---
 
-### Used Tools
+#### Used Tools
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [ColorZilla](https://www.colorzilla.com/chrome/)

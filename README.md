@@ -20,8 +20,8 @@ function randomPassword() I declare a variable, which contains as string all pos
 
 - [x] _HTML5_
 - [ ] _CSS3_
-- [x] _SASS_
-- [ ] _SCSS_
+- [ ] _SASS_
+- [x] _SCSS_
 - [x] _JavaScript_
 - [ ] _React_
 - [ ] _Bootstrap_

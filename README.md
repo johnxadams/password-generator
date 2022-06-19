@@ -1,7 +1,7 @@
 ## Password Generator
 
 #### About Project
-In this application you can generate a random password. Based on all possible letter and special character combinations of your keyboard, a password will be suggested. . All you have to do is click on a button. 
+In this application you can generate a random password. Based on all possible letter and special character combinations of your keyboard, a password will be suggested. All you have to do is click on a button. 
 
 <div align="center">
 

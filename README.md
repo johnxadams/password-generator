@@ -5,7 +5,8 @@ In this application you can generate a random password. Based on all possible le
 
 <div align="center">
 
-**_[Here you can have a look at my work.](https://johnxadams.github.io/password-generator/)_**
+
+**_<a href="https://johnxadams.github.io/password-generator/" target="_blank">Click here to have a look at my work.</a>_**
 
 ![to-do-listpage-screenshot](./src/images/password-generator-gif.gif)
 
